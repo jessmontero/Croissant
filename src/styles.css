@@ -1,11 +1,12 @@
 body {
   text-align: center;
-  margin: 30px;
+  margin: 40px;
   font-size: 20px;
+  background: #09b7ce;
 }
 
 h1 {
-  color: #09b7ce;
+  color: whitesmoke;
 }
 
 h1,
@@ -14,8 +15,12 @@ img,
   margin-bottom: 25px;
 }
 
+img {
+  background: white;
+}
+
 a {
-  color: #09b7ce;
+  color: white;
   text-decoration: none;
 }
 
