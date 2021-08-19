@@ -1,3 +1,35 @@
 body {
   text-align: center;
+  margin: 30px;
+  font-size: 20px;
+}
+
+h1 {
+  color: #09b7ce;
+}
+
+h1,
+img,
+.navigation-links {
+  margin-bottom: 25px;
+}
+
+a {
+  color: #09b7ce;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #067786;
+}
+
+.croissant-info {
+  max-width: 650px;
+  display: block;
+  margin: 0 auto 30px;
+}
+
+.navigation-links a {
+  padding: 12px;
 }
